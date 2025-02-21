@@ -23,10 +23,10 @@ This is a simple Password Generator script written in Python. It allows users to
 
 2️⃣ Select an option:
 
-
 1 → Generate a new password
 
 2 → Exit the program
 
 3️⃣ Enter the desired password length (minimum 4 characters)
+
 4️⃣ Get your secure password!
