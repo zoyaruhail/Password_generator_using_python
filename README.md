@@ -1,10 +1,10 @@
-#Password Generator 🔐
+# Password Generator 🔐
 
-📌 Description
+## 📌 Description
 
 This is a simple Password Generator script written in Python. It allows users to generate strong and secure passwords containing uppercase letters, lowercase letters, symbols, and numbers. The user can specify the desired password length (minimum 4 characters), ensuring a mix of character types for better security.
 
-⚡ Features
+## ⚡ Features
 
 ✅ Generates Random Passwords – Includes uppercase, lowercase, numbers, and symbols
 
@@ -17,7 +17,7 @@ This is a simple Password Generator script written in Python. It allows users to
 ✅ Input Validation – Handles incorrect inputs gracefully
 
 
-🛠 How to Use?
+## 🛠 How to Use?
 
 1️⃣ Run the script
 
